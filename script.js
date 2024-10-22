@@ -36,14 +36,14 @@ function nextVerb() {
     // Agregar un campo para el significado del verbo
     const meaningDiv = document.createElement('div');
     meaningDiv.className = 'answer';
-    meaningDiv.innerHTML = `<label>MEANING (en español): <input type="text" id="meaning"></label>`;
+    meaningDiv.innerHTML = `<label>MEANING (en español): <input type="text" id="meaning"><span class="correct-answer" id="correct-meaning"></span></label>`;
     answersContainer.appendChild(meaningDiv);
 
     // Agregar campos para los tiempos seleccionados
     selectedTenses.forEach(tense => {
         const answerDiv = document.createElement('div');
         answerDiv.className = 'answer';
-        answerDiv.innerHTML = `<label>${tense.replace(/_/g, ' ').toUpperCase()}: <input type="text" id="${tense}"></label>`;
+        answerDiv.innerHTML = `<label>${tense.replace(/_/g, ' ').toUpperCase()}: <input type="text" id="${tense}"><span class="correct-answer" id="correct-${tense}"></span></label>`;
         answersContainer.appendChild(answerDiv);
     });
 
@@ -51,31 +51,38 @@ function nextVerb() {
 }
 
 function checkAnswer() {
-    let resultText = 'Respuestas incorrectas para: ';
     let hasError = false;
 
     // Verificar el significado
     const meaningAnswer = document.getElementById('meaning').value;
     const correctMeaning = verbs[currentVerbIndex].meaning;
+    const meaningFeedback = document.getElementById('correct-meaning');
 
     if (meaningAnswer.toLowerCase() !== correctMeaning.toLowerCase()) {
-        resultText += `MEANING (correcto: ${correctMeaning}), `;
+        meaningFeedback.innerText = `Correcto: ${correctMeaning}`;
+        meaningFeedback.style.display = 'block';
         hasError = true;
+    } else {
+        meaningFeedback.style.display = 'none';
     }
 
     // Verificar los tiempos verbales
     selectedTenses.forEach(tense => {
         const answer = document.getElementById(tense).value;
         const correctAnswer = verbs[currentVerbIndex][tense];
+        const tenseFeedback = document.getElementById(`correct-${tense}`);
 
         if (answer.toLowerCase() !== correctAnswer.toLowerCase()) {
-            resultText += `${tense.replace(/_/g, ' ')} (correcto: ${correctAnswer}), `;
+            tenseFeedback.innerText = `Correcto: ${correctAnswer}`;
+            tenseFeedback.style.display = 'block';
             hasError = true;
+        } else {
+            tenseFeedback.style.display = 'none';
         }
     });
 
     const result = document.getElementById('result');
-    result.innerText = hasError ? resultText.slice(0, -2) : '¡Todas las respuestas son correctas!';
+    result.innerText = hasError ? 'Algunas respuestas son incorrectas.' : '¡Todas las respuestas son correctas!';
 
     // Mostrar botón "Siguiente Verbo" si ya se verificaron las respuestas
     document.getElementById('next-verb-button').style.display = 'inline';
