@@ -1,3 +1,4 @@
+/* Estilo general */
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
@@ -14,20 +15,14 @@ body {
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
 
-input[type="checkbox"] {
-    margin-right: 5px;
-}
-
-#time-selection h2 {
-    margin-bottom: 10px;
-}
-
-#answers {
+/* Estilo para los inputs y botones */
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
     margin-top: 10px;
-}
-
-.answer {
-    margin-top: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
 }
 
 button {
@@ -38,12 +33,60 @@ button {
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    width: 100%; /* Hacer los botones más anchos en pantallas pequeñas */
 }
 
 button:hover {
     background-color: #218838;
 }
 
-button:hover {
-    background-color: #218838;
+#time-selection {
+    margin-bottom: 20px;
+}
+
+.answer {
+    margin-bottom: 15px;
+}
+
+/* Estilo responsivo para pantallas pequeñas */
+@media (max-width: 768px) {
+    .container {
+        max-width: 100%; /* Asegurar que el contenedor ocupe todo el ancho disponible */
+        padding: 15px;
+    }
+
+    button {
+        padding: 15px; /* Botones más grandes para pantallas táctiles */
+    }
+
+    input[type="text"] {
+        padding: 15px; /* Inputs más grandes en móviles */
+    }
+
+    h1 {
+        font-size: 24px; /* Reducir el tamaño de la fuente para títulos */
+    }
+
+    h3 {
+        font-size: 18px; /* Ajustar el tamaño de subtítulos */
+    }
+}
+
+/* Estilo para pantallas muy pequeñas (móviles en vertical) */
+@media (max-width: 480px) {
+    h1 {
+        font-size: 20px;
+    }
+
+    h3 {
+        font-size: 16px;
+    }
+
+    button {
+        padding: 12px;
+    }
+
+    input[type="text"] {
+        padding: 12px;
+    }
 }
