@@ -74,4 +74,35 @@ function checkAnswer() {
 
     const result = document.getElementById('result');
     result.innerText = hasError ? resultText.slice(0, -2) : '¡Todas las respuestas son correctas!';
+
+    // Mostrar botón "Siguiente Verbo" si ya se verificaron las respuestas
+    document.getElementById('next-verb-button').style.display = 'inline';
+}
+
+function nextVerb() {
+    // Ocultar el botón "Siguiente Verbo" cuando se cargue un nuevo verbo
+    document.getElementById('next-verb-button').style.display = 'none';
+    
+    currentVerbIndex = Math.floor(Math.random() * verbs.length);
+    const verb = verbs[currentVerbIndex];
+    document.getElementById('question').innerText = `¿Cómo se conjuga el verbo "${verb.base}"?`;
+
+    const answersContainer = document.getElementById('answers');
+    answersContainer.innerHTML = ''; // Limpiar respuestas anteriores
+
+    // Agregar un campo para el significado del verbo
+    const meaningDiv = document.createElement('div');
+    meaningDiv.className = 'answer';
+    meaningDiv.innerHTML = `<label>MEANING (en español): <input type="text" id="meaning"></label>`;
+    answersContainer.appendChild(meaningDiv);
+
+    // Agregar campos para los tiempos seleccionados
+    selectedTenses.forEach(tense => {
+        const answerDiv = document.createElement('div');
+        answerDiv.className = 'answer';
+        answerDiv.innerHTML = `<label>${tense.replace(/_/g, ' ').toUpperCase()}: <input type="text" id="${tense}"></label>`;
+        answersContainer.appendChild(answerDiv);
+    });
+
+    document.getElementById('result').innerText = '';
 }
