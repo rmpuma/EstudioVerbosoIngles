@@ -23,6 +23,7 @@ input[type="text"] {
     border: 1px solid #ccc;
     border-radius: 5px;
     box-sizing: border-box;
+    font-size: 16px; /* Mayor tamaño para evitar zoom */
 }
 
 button {
@@ -33,42 +34,51 @@ button {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    width: 100%; /* Hacer los botones más anchos en pantallas pequeñas */
+    width: 100%;
 }
 
 button:hover {
     background-color: #218838;
 }
 
-#time-selection {
-    margin-bottom: 20px;
-}
-
 .answer {
     margin-bottom: 15px;
+    position: relative; /* Para posicionar los mensajes de respuesta */
+}
+
+.answer label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.correct-answer {
+    color: red;
+    font-size: 14px;
+    margin-top: 5px;
+    display: none;
 }
 
 /* Estilo responsivo para pantallas pequeñas */
 @media (max-width: 768px) {
     .container {
-        max-width: 100%; /* Asegurar que el contenedor ocupe todo el ancho disponible */
+        max-width: 100%;
         padding: 15px;
     }
 
     button {
-        padding: 15px; /* Botones más grandes para pantallas táctiles */
+        padding: 15px;
     }
 
     input[type="text"] {
-        padding: 15px; /* Inputs más grandes en móviles */
+        padding: 15px;
     }
 
     h1 {
-        font-size: 24px; /* Reducir el tamaño de la fuente para títulos */
+        font-size: 24px;
     }
 
     h3 {
-        font-size: 18px; /* Ajustar el tamaño de subtítulos */
+        font-size: 18px;
     }
 }
 
@@ -90,3 +100,5 @@ button:hover {
         padding: 12px;
     }
 }
+
+
