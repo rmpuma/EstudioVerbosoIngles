@@ -1,0 +1,3142 @@
+[
+    {
+        "base": "abide",
+        "third_person": "abides",
+        "simple_past": "abode",
+        "past_participle": "abode",
+        "gerund": "abiding",
+        "type": "irregular",
+        "meaning": "morar/habitar/tolerar"
+    },
+    {
+        "base": "absorb",
+        "third_person": "absorbs",
+        "simple_past": "absorbed",
+        "past_participle": "absorbed",
+        "gerund": "absorbing",
+        "type": "regular",
+        "meaning": "absorber"
+    },
+    {
+        "base": "add",
+        "third_person": "adds",
+        "simple_past": "added",
+        "past_participle": "added",
+        "gerund": "adding",
+        "type": "regular",
+        "meaning": "añadir"
+    },
+    {
+        "base": "advance",
+        "third_person": "advances",
+        "simple_past": "advanced",
+        "past_participle": "advanced",
+        "gerund": "advancing",
+        "type": "regular",
+        "meaning": "avanzar"
+    },
+    {
+        "base": "agree",
+        "third_person": "agrees",
+        "simple_past": "agreed",
+        "past_participle": "agreed",
+        "gerund": "agreeing",
+        "type": "regular",
+        "meaning": "acordar/estar de acuerdo/acceder"
+    },
+    {
+        "base": "answer",
+        "third_person": "answers",
+        "simple_past": "answered",
+        "past_participle": "answered",
+        "gerund": "answering",
+        "type": "regular",
+        "meaning": "contestar/responder"
+    },
+    {
+        "base": "appear",
+        "third_person": "appears",
+        "simple_past": "appeared",
+        "past_participle": "appeared",
+        "gerund": "appearing",
+        "type": "regular",
+        "meaning": "aparecer"
+    },
+    {
+        "base": "arise",
+        "third_person": "arises",
+        "simple_past": "arose",
+        "past_participle": "arisen",
+        "gerund": "arising",
+        "type": "irregular",
+        "meaning": "surgir/levantarse"
+    },
+    {
+        "base": "arrive",
+        "third_person": "arrives",
+        "simple_past": "arrived",
+        "past_participle": "arrived",
+        "gerund": "arriving",
+        "type": "regular",
+        "meaning": "llegar"
+    },
+    {
+        "base": "ask",
+        "third_person": "asks",
+        "simple_past": "asked",
+        "past_participle": "asked",
+        "gerund": "asking",
+        "type": "regular",
+        "meaning": "preguntar"
+    },
+    {
+        "base": "assign",
+        "third_person": "assigns",
+        "simple_past": "assigned",
+        "past_participle": "assigned",
+        "gerund": "assigning",
+        "type": "regular",
+        "meaning": "asignar"
+    },
+    {
+        "base": "assist",
+        "third_person": "assists",
+        "simple_past": "assisted",
+        "past_participle": "assisted",
+        "gerund": "assisting",
+        "type": "regular",
+        "meaning": "asistir"
+    },
+    {
+        "base": "attach",
+        "third_person": "attaches",
+        "simple_past": "attached",
+        "past_participle": "attached",
+        "gerund": "attaching",
+        "type": "regular",
+        "meaning": "unir/juntar/sujetar/pegar"
+    },
+    {
+        "base": "attend",
+        "third_person": "attends",
+        "simple_past": "attended",
+        "past_participle": "attended",
+        "gerund": "attending",
+        "type": "regular",
+        "meaning": "atender"
+    },
+    {
+        "base": "awake",
+        "third_person": "awakes",
+        "simple_past": "awoke",
+        "past_participle": "awoke",
+        "gerund": "awaking",
+        "type": "irregular",
+        "meaning": "despertar"
+    },
+    {
+        "base": "award",
+        "third_person": "awards",
+        "simple_past": "awarded",
+        "past_participle": "awarded",
+        "gerund": "awarding",
+        "type": "regular",
+        "meaning": "otorgar"
+    },
+    {
+        "base": "bake",
+        "third_person": "bakes",
+        "simple_past": "baked",
+        "past_participle": "baked",
+        "gerund": "baking",
+        "type": "regular",
+        "meaning": "hornear"
+    },
+    {
+        "base": "bathe",
+        "third_person": "bathes",
+        "simple_past": "bathed",
+        "past_participle": "bathed",
+        "gerund": "bathing",
+        "type": "regular",
+        "meaning": "bañar"
+    },
+    {
+        "base": "be",
+        "third_person": "is",
+        "simple_past": "was - were",
+        "past_participle": "been",
+        "gerund": "being",
+        "type": "irregular",
+        "meaning": "ser/estar"
+    },
+    {
+        "base": "bear",
+        "third_person": "bears",
+        "simple_past": "bore",
+        "past_participle": "born",
+        "gerund": "bearing",
+        "type": "irregular",
+        "meaning": "soportar/aguantar"
+    },
+    {
+        "base": "beat",
+        "third_person": "beats",
+        "simple_past": "beat",
+        "past_participle": "beaten",
+        "gerund": "beating",
+        "type": "irregular",
+        "meaning": "vencer/batir"
+    },
+    {
+        "base": "become",
+        "third_person": "becomes",
+        "simple_past": "became",
+        "past_participle": "become",
+        "gerund": "becoming",
+        "type": "irregular",
+        "meaning": "llegar a ser/ponerse/volverse"
+    },
+    {
+        "base": "befall",
+        "third_person": "befalls",
+        "simple_past": "befell",
+        "past_participle": "befallen",
+        "gerund": "befalling",
+        "type": "irregular",
+        "meaning": "suceder/acontecer/ocurrir"
+    },
+    {
+        "base": "begin",
+        "third_person": "begins",
+        "simple_past": "began",
+        "past_participle": "begun",
+        "gerund": "beginning",
+        "type": "irregular",
+        "meaning": "comenzar/empezar"
+    },
+    {
+        "base": "behold",
+        "third_person": "beholds",
+        "simple_past": "beheld",
+        "past_participle": "beheld",
+        "gerund": "beholding",
+        "type": "irregular",
+        "meaning": "contemplar/mirar"
+    },
+    {
+        "base": "believe",
+        "third_person": "believes",
+        "simple_past": "believed",
+        "past_participle": "believed",
+        "gerund": "believing",
+        "type": "regular",
+        "meaning": "creer"
+    },
+    {
+        "base": "belong",
+        "third_person": "belongs",
+        "simple_past": "belonged",
+        "past_participle": "belonged",
+        "gerund": "belonging",
+        "type": "regular",
+        "meaning": "pertenecer"
+    },
+    {
+        "base": "bend",
+        "third_person": "bends",
+        "simple_past": "bent",
+        "past_participle": "bent",
+        "gerund": "bending",
+        "type": "irregular",
+        "meaning": "doblar(se)/encorvar(se)"
+    },
+    {
+        "base": "bet",
+        "third_person": "bets",
+        "simple_past": "bet",
+        "past_participle": "bet",
+        "gerund": "betting",
+        "type": "irregular",
+        "meaning": "apostar"
+    },
+    {
+        "base": "bid",
+        "third_person": "bids",
+        "simple_past": "bid",
+        "past_participle": "bid",
+        "gerund": "bidding",
+        "type": "irregular",
+        "meaning": "mandar/ordenar"
+    },
+    {
+        "base": "bind",
+        "third_person": "binds",
+        "simple_past": "bound",
+        "past_participle": "bound",
+        "gerund": "binding",
+        "type": "irregular",
+        "meaning": "unir/ligar/atar/amarrar"
+    },
+    {
+        "base": "bite",
+        "third_person": "bites",
+        "simple_past": "bit",
+        "past_participle": "bitten",
+        "gerund": "biting",
+        "type": "irregular",
+        "meaning": "morder/picar"
+    },
+    {
+        "base": "bleed",
+        "third_person": "bleeds",
+        "simple_past": "bled",
+        "past_participle": "bled",
+        "gerund": "bleeding",
+        "type": "regular",
+        "meaning": "sangrar"
+    },
+    {
+        "base": "blow",
+        "third_person": "blows",
+        "simple_past": "blew",
+        "past_participle": "blown",
+        "gerund": "blowing",
+        "type": "irregular",
+        "meaning": "soplar/ventear"
+    },
+    {
+        "base": "blush",
+        "third_person": "blushes",
+        "simple_past": "blushed",
+        "past_participle": "blushed",
+        "gerund": "blushing",
+        "type": "regular",
+        "meaning": "sonrojar"
+    },
+    {
+        "base": "boil",
+        "third_person": "boils",
+        "simple_past": "boiled",
+        "past_participle": "boiled",
+        "gerund": "boiling",
+        "type": "regular",
+        "meaning": "hervir"
+    },
+    {
+        "base": "borrow",
+        "third_person": "borrows",
+        "simple_past": "borrowed",
+        "past_participle": "borrowed",
+        "gerund": "borrowing",
+        "type": "regular",
+        "meaning": "pedir prestado"
+    },
+    {
+        "base": "bother",
+        "third_person": "bothers",
+        "simple_past": "bothered",
+        "past_participle": "bothered",
+        "gerund": "bothering",
+        "type": "regular",
+        "meaning": "molestar"
+    },
+    {
+        "base": "break",
+        "third_person": "breaks",
+        "simple_past": "broke",
+        "past_participle": "broken",
+        "gerund": "breaking",
+        "type": "irregular",
+        "meaning": "quebrar/romper"
+    },
+    {
+        "base": "breed",
+        "third_person": "breeds",
+        "simple_past": "bred",
+        "past_participle": "bred",
+        "gerund": "breeding",
+        "type": "regular",
+        "meaning": "criar/educar"
+    },
+    {
+        "base": "bring",
+        "third_person": "brings",
+        "simple_past": "brought",
+        "past_participle": "brought",
+        "gerund": "bringing",
+        "type": "irregular",
+        "meaning": "traer/llevar"
+    },
+    {
+        "base": "broadcast",
+        "third_person": "broadcasts",
+        "simple_past": "broadcast",
+        "past_participle": "broadcast",
+        "gerund": "broadcasting",
+        "type": "irregular",
+        "meaning": "difundir/emitir"
+    },
+    {
+        "base": "broil",
+        "third_person": "broils",
+        "simple_past": "broiled",
+        "past_participle": "broiled",
+        "gerund": "broiling",
+        "type": "regular",
+        "meaning": "asar"
+    },
+    {
+        "base": "brown",
+        "third_person": "browns",
+        "simple_past": "browned",
+        "past_participle": "browned",
+        "gerund": "browning",
+        "type": "regular",
+        "meaning": "tostar"
+    },
+    {
+        "base": "brush",
+        "third_person": "brushes",
+        "simple_past": "brushed",
+        "past_participle": "brushed",
+        "gerund": "brushing",
+        "type": "regular",
+        "meaning": "cepillar"
+    },
+    {
+        "base": "build",
+        "third_person": "builds",
+        "simple_past": "built",
+        "past_participle": "built",
+        "gerund": "building",
+        "type": "irregular",
+        "meaning": "construir/fundar/edificar"
+    },
+    {
+        "base": "burn",
+        "third_person": "burns",
+        "simple_past": "burnt/burned",
+        "past_participle": "burnt/burned",
+        "gerund": "burning",
+        "type": "regular",
+        "meaning": "quemar/incendiar"
+    },
+    {
+        "base": "burst",
+        "third_person": "bursts",
+        "simple_past": "burst",
+        "past_participle": "burst",
+        "gerund": "bursting",
+        "type": "irregular",
+        "meaning": "estallar/reventar"
+    },
+    {
+        "base": "buy",
+        "third_person": "buys",
+        "simple_past": "bought",
+        "past_participle": "bought",
+        "gerund": "buying",
+        "type": "irregular",
+        "meaning": "comprar/adquirir"
+    },
+    {
+        "base": "call",
+        "third_person": "calls",
+        "simple_past": "called",
+        "past_participle": "called",
+        "gerund": "calling",
+        "type": "regular",
+        "meaning": "llamar"
+    },
+    {
+        "base": "calm",
+        "third_person": "calms",
+        "simple_past": "calmed",
+        "past_participle": "calmed",
+        "gerund": "calming",
+        "type": "regular",
+        "meaning": "calmar"
+    },
+    {
+        "base": "camp",
+        "third_person": "camps",
+        "simple_past": "camped",
+        "past_participle": "camped",
+        "gerund": "camping",
+        "type": "regular",
+        "meaning": "acampar"
+    },
+    {
+        "base": "cancel",
+        "third_person": "cancels",
+        "simple_past": "cancelled",
+        "past_participle": "cancelled",
+        "gerund": "canceling",
+        "type": "regular",
+        "meaning": "cancelar"
+    },
+    {
+        "base": "care",
+        "third_person": "cares",
+        "simple_past": "cared",
+        "past_participle": "cared",
+        "gerund": "caring",
+        "type": "regular",
+        "meaning": "preocupar/cuidar"
+    },
+    {
+        "base": "carry",
+        "third_person": "carries",
+        "simple_past": "carried",
+        "past_participle": "carried",
+        "gerund": "carrying",
+        "type": "regular",
+        "meaning": "llevar"
+    },
+    {
+        "base": "cast",
+        "third_person": "casts",
+        "simple_past": "cast",
+        "past_participle": "cast",
+        "gerund": "casting",
+        "type": "irregular",
+        "meaning": "moldear/repartir/echar/tirar"
+    },
+    {
+        "base": "catch",
+        "third_person": "catches",
+        "simple_past": "caught",
+        "past_participle": "caught",
+        "gerund": "catching",
+        "type": "irregular",
+        "meaning": "coger/tomar/agarrar"
+    },
+    {
+        "base": "celebrate",
+        "third_person": "celebrates",
+        "simple_past": "celebrated",
+        "past_participle": "celebrated",
+        "gerund": "celebrating",
+        "type": "regular",
+        "meaning": "celebrar"
+    },
+    {
+        "base": "change",
+        "third_person": "changes",
+        "simple_past": "changed",
+        "past_participle": "changed",
+        "gerund": "changing",
+        "type": "regular",
+        "meaning": "cambiar"
+    },
+    {
+        "base": "charge",
+        "third_person": "charges",
+        "simple_past": "charged",
+        "past_participle": "charged",
+        "gerund": "charging",
+        "type": "regular",
+        "meaning": "cargar"
+    },
+    {
+        "base": "cheat",
+        "third_person": "cheats",
+        "simple_past": "cheated",
+        "past_participle": "cheated",
+        "gerund": "cheating",
+        "type": "regular",
+        "meaning": "engañar"
+    },
+    {
+        "base": "check",
+        "third_person": "checks",
+        "simple_past": "checked",
+        "past_participle": "checked",
+        "gerund": "checking",
+        "type": "regular",
+        "meaning": "comprobar/chequear/verificar"
+    },
+    {
+        "base": "cheer",
+        "third_person": "cheers",
+        "simple_past": "cheered",
+        "past_participle": "cheered",
+        "gerund": "cheering",
+        "type": "regular",
+        "meaning": "victorear/alegrar/animar/aplaudir"
+    },
+    {
+        "base": "chew",
+        "third_person": "chews",
+        "simple_past": "chewed",
+        "past_participle": "chewed",
+        "gerund": "chewing",
+        "type": "regular",
+        "meaning": "masticar"
+    },
+    {
+        "base": "chill",
+        "third_person": "chills",
+        "simple_past": "chilled",
+        "past_participle": "chilled",
+        "gerund": "chilling",
+        "type": "regular",
+        "meaning": "resfriar"
+    },
+    {
+        "base": "choose",
+        "third_person": "chooses",
+        "simple_past": "chose",
+        "past_participle": "chosen",
+        "gerund": "choosing",
+        "type": "irregular",
+        "meaning": "escoger/elegir/optar"
+    },
+    {
+        "base": "circle",
+        "third_person": "circles",
+        "simple_past": "circled",
+        "past_participle": "circled",
+        "gerund": "circling",
+        "type": "regular",
+        "meaning": "rodear/hacer un circulo"
+    },
+    {
+        "base": "clap",
+        "third_person": "claps",
+        "simple_past": "clapped",
+        "past_participle": "clapped",
+        "gerund": "clapping",
+        "type": "regular",
+        "meaning": "aplaudir"
+    },
+    {
+        "base": "clean",
+        "third_person": "cleans",
+        "simple_past": "cleaned",
+        "past_participle": "cleaned",
+        "gerund": "cleaning",
+        "type": "regular",
+        "meaning": "limpiar"
+    },
+    {
+        "base": "climb",
+        "third_person": "climbs",
+        "simple_past": "climbed",
+        "past_participle": "climbed",
+        "gerund": "climbing",
+        "type": "regular",
+        "meaning": "subir"
+    },
+    {
+        "base": "cling",
+        "third_person": "clings",
+        "simple_past": "clung",
+        "past_participle": "clung",
+        "gerund": "clinging",
+        "type": "irregular",
+        "meaning": "agarrar/aferrarse/adherirse"
+    },
+    {
+        "base": "close",
+        "third_person": "closes",
+        "simple_past": "closed",
+        "past_participle": "closed",
+        "gerund": "closing",
+        "type": "regular",
+        "meaning": "cerrar"
+    },
+    {
+        "base": "clothe",
+        "third_person": "clothes",
+        "simple_past": "clothed",
+        "past_participle": "clothed",
+        "gerund": "clothing",
+        "type": "regular",
+        "meaning": "vestir/arropar"
+    },
+    {
+        "base": "collect",
+        "third_person": "collects",
+        "simple_past": "collected",
+        "past_participle": "collected",
+        "gerund": "collecting",
+        "type": "regular",
+        "meaning": "coleccionar"
+    },
+    {
+        "base": "come",
+        "third_person": "comes",
+        "simple_past": "came",
+        "past_participle": "come",
+        "gerund": "coming",
+        "type": "irregular",
+        "meaning": "venir"
+    },
+    {
+        "base": "comment",
+        "third_person": "comments",
+        "simple_past": "commented",
+        "past_participle": "commented",
+        "gerund": "commenting",
+        "type": "regular",
+        "meaning": "comentar"
+    },
+    {
+        "base": "complain",
+        "third_person": "complains",
+        "simple_past": "complained",
+        "past_participle": "complained",
+        "gerund": "complaining",
+        "type": "regular",
+        "meaning": "quejarse"
+    },
+    {
+        "base": "complete",
+        "third_person": "completes",
+        "simple_past": "completed",
+        "past_participle": "completed",
+        "gerund": "completing",
+        "type": "regular",
+        "meaning": "completar"
+    },
+    {
+        "base": "continue",
+        "third_person": "continues",
+        "simple_past": "continued",
+        "past_participle": "continued",
+        "gerund": "continuing",
+        "type": "regular",
+        "meaning": "continuar"
+    },
+    {
+        "base": "convince",
+        "third_person": "convinces",
+        "simple_past": "convinced",
+        "past_participle": "convinced",
+        "gerund": "convincing",
+        "type": "regular",
+        "meaning": "convencer"
+    },
+    {
+        "base": "cook",
+        "third_person": "cooks",
+        "simple_past": "cooked",
+        "past_participle": "cooked",
+        "gerund": "cooking",
+        "type": "regular",
+        "meaning": "cocinar"
+    },
+    {
+        "base": "cool",
+        "third_person": "cools",
+        "simple_past": "cooled",
+        "past_participle": "cooled",
+        "gerund": "cooling",
+        "type": "regular",
+        "meaning": "enfriar/refrescar(se)/calmar(se)"
+    },
+    {
+        "base": "copy",
+        "third_person": "copies",
+        "simple_past": "copied",
+        "past_participle": "copied",
+        "gerund": "copying",
+        "type": "regular",
+        "meaning": "copiar"
+    },
+    {
+        "base": "cost",
+        "third_person": "costs",
+        "simple_past": "cost",
+        "past_participle": "cost",
+        "gerund": "costing",
+        "type": "irregular",
+        "meaning": "costar"
+    },
+    {
+        "base": "count",
+        "third_person": "counts",
+        "simple_past": "counted",
+        "past_participle": "counted",
+        "gerund": "counting",
+        "type": "regular",
+        "meaning": "contar"
+    },
+    {
+        "base": "cover",
+        "third_person": "covers",
+        "simple_past": "covered",
+        "past_participle": "covered",
+        "gerund": "covering",
+        "type": "regular",
+        "meaning": "cubrir"
+    },
+    {
+        "base": "creep",
+        "third_person": "creeps",
+        "simple_past": "crept",
+        "past_participle": "crept",
+        "gerund": "creeping",
+        "type": "irregular",
+        "meaning": "arrastrarse/deslizarse/gatear"
+    },
+    {
+        "base": "cross",
+        "third_person": "crosses",
+        "simple_past": "crossed",
+        "past_participle": "crossed",
+        "gerund": "crossing",
+        "type": "regular",
+        "meaning": "cruzar/atravesar"
+    },
+    {
+        "base": "cry",
+        "third_person": "cries",
+        "simple_past": "cried",
+        "past_participle": "cried",
+        "gerund": "crying",
+        "type": "regular",
+        "meaning": "llorar/gritar"
+    },
+    {
+        "base": "cut",
+        "third_person": "cuts",
+        "simple_past": "cut",
+        "past_participle": "cut",
+        "gerund": "cutting",
+        "type": "irregular",
+        "meaning": "cortar/recortar"
+    },
+    {
+        "base": "dance",
+        "third_person": "dances",
+        "simple_past": "danced",
+        "past_participle": "danced",
+        "gerund": "dancing",
+        "type": "regular",
+        "meaning": "bailar"
+    },
+    {
+        "base": "deal",
+        "third_person": "deals",
+        "simple_past": "dealt",
+        "past_participle": "dealt",
+        "gerund": "dealing",
+        "type": "irregular",
+        "meaning": "negociar/comerciar"
+    },
+    {
+        "base": "decide",
+        "third_person": "decides",
+        "simple_past": "decided",
+        "past_participle": "decided",
+        "gerund": "deciding",
+        "type": "regular",
+        "meaning": "decidir"
+    },
+    {
+        "base": "declare",
+        "third_person": "declares",
+        "simple_past": "declared",
+        "past_participle": "declared",
+        "gerund": "declaring",
+        "type": "regular",
+        "meaning": "declarar"
+    },
+    {
+        "base": "decorate",
+        "third_person": "decorates",
+        "simple_past": "decorated",
+        "past_participle": "decorated",
+        "gerund": "decorating",
+        "type": "regular",
+        "meaning": "decorar"
+    },
+    {
+        "base": "defend",
+        "third_person": "defends",
+        "simple_past": "defended",
+        "past_participle": "defended",
+        "gerund": "defending",
+        "type": "regular",
+        "meaning": "defender"
+    },
+    {
+        "base": "demonstrate",
+        "third_person": "demonstrates",
+        "simple_past": "demonstrated",
+        "past_participle": "demonstrated",
+        "gerund": "demonstrating",
+        "type": "regular",
+        "meaning": "demostrar"
+    },
+    {
+        "base": "depend",
+        "third_person": "depends",
+        "simple_past": "depended",
+        "past_participle": "depended",
+        "gerund": "depending",
+        "type": "regular",
+        "meaning": "depender"
+    },
+    {
+        "base": "descend",
+        "third_person": "descends",
+        "simple_past": "descended",
+        "past_participle": "descended",
+        "gerund": "descending",
+        "type": "regular",
+        "meaning": "descender/bajar"
+    },
+    {
+        "base": "describe",
+        "third_person": "describes",
+        "simple_past": "described",
+        "past_participle": "described",
+        "gerund": "describing",
+        "type": "regular",
+        "meaning": "describir"
+    },
+    {
+        "base": "destroy",
+        "third_person": "destroys",
+        "simple_past": "destroyed",
+        "past_participle": "destroyed",
+        "gerund": "destroying",
+        "type": "regular",
+        "meaning": "destruir"
+    },
+    {
+        "base": "dictate",
+        "third_person": "dictates",
+        "simple_past": "dictated",
+        "past_participle": "dictated",
+        "gerund": "dictating",
+        "type": "regular",
+        "meaning": "dictar"
+    },
+    {
+        "base": "die",
+        "third_person": "dies",
+        "simple_past": "died",
+        "past_participle": "died",
+        "gerund": "dying",
+        "type": "regular",
+        "meaning": "morir"
+    },
+    {
+        "base": "dig",
+        "third_person": "digs",
+        "simple_past": "dug",
+        "past_participle": "dug",
+        "gerund": "digging",
+        "type": "irregular",
+        "meaning": "cavar/excavar"
+    },
+    {
+        "base": "disagree",
+        "third_person": "disagrees",
+        "simple_past": "disagreed",
+        "past_participle": "disagreed",
+        "gerund": "disagreeing",
+        "type": "regular",
+        "meaning": "discrepar/no estar de acuerdo"
+    },
+    {
+        "base": "discover",
+        "third_person": "discovers",
+        "simple_past": "discovered",
+        "past_participle": "discovered",
+        "gerund": "discovering",
+        "type": "regular",
+        "meaning": "descubrir"
+    },
+    {
+        "base": "discuss",
+        "third_person": "discusses",
+        "simple_past": "discussed",
+        "past_participle": "discussed",
+        "gerund": "discussing",
+        "type": "regular",
+        "meaning": "discutir"
+    },
+    {
+        "base": "divide",
+        "third_person": "divides",
+        "simple_past": "divided",
+        "past_participle": "divided",
+        "gerund": "dividing",
+        "type": "regular",
+        "meaning": "dividir"
+    },
+    {
+        "base": "do",
+        "third_person": "does",
+        "simple_past": "did",
+        "past_participle": "done",
+        "gerund": "doing",
+        "type": "irregular",
+        "meaning": "hacer"
+    },
+    {
+        "base": "drain",
+        "third_person": "drains",
+        "simple_past": "drained",
+        "past_participle": "drained",
+        "gerund": "draining",
+        "type": "regular",
+        "meaning": "agotar"
+    },
+    {
+        "base": "draw",
+        "third_person": "draws",
+        "simple_past": "drew",
+        "past_participle": "drawn",
+        "gerund": "drawing",
+        "type": "irregular",
+        "meaning": "dibujar/trazar"
+    },
+    {
+        "base": "dream",
+        "third_person": "dreams",
+        "simple_past": "dreamed",
+        "past_participle": "dreamt/dreamed",
+        "gerund": "dreaming",
+        "type": "regular",
+        "meaning": "soñar"
+    },
+    {
+        "base": "dress",
+        "third_person": "dresses",
+        "simple_past": "dressed",
+        "past_participle": "dressed",
+        "gerund": "dressing",
+        "type": "regular",
+        "meaning": "vestir"
+    },
+    {
+        "base": "drink",
+        "third_person": "drinks",
+        "simple_past": "drank",
+        "past_participle": "drunk",
+        "gerund": "drinking",
+        "type": "irregular",
+        "meaning": "beber/tomar"
+    },
+    {
+        "base": "drive",
+        "third_person": "drives",
+        "simple_past": "drove",
+        "past_participle": "driven",
+        "gerund": "driving",
+        "type": "irregular",
+        "meaning": "manejar/conducir"
+    },
+    {
+        "base": "drop",
+        "third_person": "drops",
+        "simple_past": "dropped",
+        "past_participle": "dropped",
+        "gerund": "dropping",
+        "type": "regular",
+        "meaning": "bajar/soltar"
+    },
+    {
+        "base": "dust",
+        "third_person": "dusts",
+        "simple_past": "dusted",
+        "past_participle": "dusted",
+        "gerund": "dusting",
+        "type": "regular",
+        "meaning": "desempolvar"
+    },
+    {
+        "base": "dwell",
+        "third_person": "dwells",
+        "simple_past": "dwelt",
+        "past_participle": "dwelt",
+        "gerund": "dwelling",
+        "type": "irregular",
+        "meaning": "residir/morar/habitar"
+    },
+    {
+        "base": "eat",
+        "third_person": "eats",
+        "simple_past": "ate",
+        "past_participle": "eaten",
+        "gerund": "eating",
+        "type": "irregular",
+        "meaning": "comer"
+    },
+    {
+        "base": "empty",
+        "third_person": "empties",
+        "simple_past": "emptied",
+        "past_participle": "emptied",
+        "gerund": "emptying",
+        "type": "regular",
+        "meaning": "vaciar"
+    },
+    {
+        "base": "end",
+        "third_person": "ends",
+        "simple_past": "ended",
+        "past_participle": "ended",
+        "gerund": "ending",
+        "type": "regular",
+        "meaning": "terminar"
+    },
+    {
+        "base": "enjoy",
+        "third_person": "enjoys",
+        "simple_past": "enjoyed",
+        "past_participle": "enjoyed",
+        "gerund": "enjoying",
+        "type": "regular",
+        "meaning": "gozar de/disfrutar"
+    },
+    {
+        "base": "enroll",
+        "third_person": "enrolls",
+        "simple_past": "enrolled",
+        "past_participle": "enrolled",
+        "gerund": "enrolling",
+        "type": "regular",
+        "meaning": "matricular"
+    },
+    {
+        "base": "enter",
+        "third_person": "enters",
+        "simple_past": "entered",
+        "past_participle": "entered",
+        "gerund": "entering",
+        "type": "regular",
+        "meaning": "entrar"
+    },
+    {
+        "base": "erase",
+        "third_person": "erases",
+        "simple_past": "erased",
+        "past_participle": "erased",
+        "gerund": "erasing",
+        "type": "regular",
+        "meaning": "borrar"
+    },
+    {
+        "base": "excuse",
+        "third_person": "excuses",
+        "simple_past": "excused",
+        "past_participle": "excused",
+        "gerund": "excusing",
+        "type": "regular",
+        "meaning": "excusar"
+    },
+    {
+        "base": "exercise",
+        "third_person": "exercises",
+        "simple_past": "exercised",
+        "past_participle": "exercised",
+        "gerund": "exercising",
+        "type": "regular",
+        "meaning": "ejercitar(se)"
+    },
+    {
+        "base": "expect",
+        "third_person": "expects",
+        "simple_past": "expected",
+        "past_participle": "expected",
+        "gerund": "expecting",
+        "type": "regular",
+        "meaning": "esperar"
+    },
+    {
+        "base": "explain",
+        "third_person": "explains",
+        "simple_past": "explained",
+        "past_participle": "explained",
+        "gerund": "explaining",
+        "type": "regular",
+        "meaning": "explicar"
+    },
+    {
+        "base": "fade",
+        "third_person": "fades",
+        "simple_past": "faded",
+        "past_participle": "faded",
+        "gerund": "fading",
+        "type": "regular",
+        "meaning": "desteñir/desvanecer(se)"
+    },
+    {
+        "base": "fail",
+        "third_person": "fails",
+        "simple_past": "failed",
+        "past_participle": "failed",
+        "gerund": "failing",
+        "type": "regular",
+        "meaning": "fallar/fracasar/perder"
+    },
+    {
+        "base": "fall",
+        "third_person": "falls",
+        "simple_past": "fell",
+        "past_participle": "fallen",
+        "gerund": "falling",
+        "type": "irregular",
+        "meaning": "caer(se)"
+    },
+    {
+        "base": "fasten",
+        "third_person": "fastens",
+        "simple_past": "fastened",
+        "past_participle": "fastened",
+        "gerund": "fastening",
+        "type": "regular",
+        "meaning": "abrochar"
+    },
+    {
+        "base": "fear",
+        "third_person": "fears",
+        "simple_past": "feared",
+        "past_participle": "feared",
+        "gerund": "fearing",
+        "type": "regular",
+        "meaning": "temer"
+    },
+    {
+        "base": "feed",
+        "third_person": "feeds",
+        "simple_past": "fed",
+        "past_participle": "fed",
+        "gerund": "feeding",
+        "type": "regular",
+        "meaning": "alimentar(se)"
+    },
+    {
+        "base": "feel",
+        "third_person": "feels",
+        "simple_past": "felt",
+        "past_participle": "felt",
+        "gerund": "feeling",
+        "type": "irregular",
+        "meaning": "sentir"
+    },
+    {
+        "base": "fight",
+        "third_person": "fights",
+        "simple_past": "fought",
+        "past_participle": "fought",
+        "gerund": "fighting",
+        "type": "irregular",
+        "meaning": "pelear/luchar"
+    },
+    {
+        "base": "fill",
+        "third_person": "fills",
+        "simple_past": "filled",
+        "past_participle": "filled",
+        "gerund": "filling",
+        "type": "regular",
+        "meaning": "llenar/rellenar"
+    },
+    {
+        "base": "find",
+        "third_person": "finds",
+        "simple_past": "found",
+        "past_participle": "found",
+        "gerund": "finding",
+        "type": "irregular",
+        "meaning": "encontrar/hallar"
+    },
+    {
+        "base": "finish",
+        "third_person": "finishes",
+        "simple_past": "finished",
+        "past_participle": "finished",
+        "gerund": "finishing",
+        "type": "regular",
+        "meaning": "acabar(con)/terminar"
+    },
+    {
+        "base": "fish",
+        "third_person": "fishes",
+        "simple_past": "fished",
+        "past_participle": "fished",
+        "gerund": "fishing",
+        "type": "regular",
+        "meaning": "pescar"
+    },
+    {
+        "base": "fit",
+        "third_person": "fits",
+        "simple_past": "fitted",
+        "past_participle": "fitted",
+        "gerund": "fitting",
+        "type": "regular",
+        "meaning": "caber/encajar/ajustar"
+    },
+    {
+        "base": "fix",
+        "third_person": "fixes",
+        "simple_past": "fixed",
+        "past_participle": "fixed",
+        "gerund": "fixing",
+        "type": "regular",
+        "meaning": "arreglar"
+    },
+    {
+        "base": "flee",
+        "third_person": "flees",
+        "simple_past": "fled",
+        "past_participle": "fled",
+        "gerund": "fleeing",
+        "type": "regular",
+        "meaning": "evitar/huir de"
+    },
+    {
+        "base": "fling",
+        "third_person": "flings",
+        "simple_past": "flung",
+        "past_participle": "flung",
+        "gerund": "flinging",
+        "type": "irregular",
+        "meaning": "arrojar/lanzar/tirar"
+    },
+    {
+        "base": "flunk",
+        "third_person": "flunks",
+        "simple_past": "flunked",
+        "past_participle": "flunked",
+        "gerund": "flunking",
+        "type": "regular",
+        "meaning": "fracasar"
+    },
+    {
+        "base": "fly",
+        "third_person": "flies",
+        "simple_past": "flew",
+        "past_participle": "flown",
+        "gerund": "flying",
+        "type": "irregular",
+        "meaning": "volar/huir"
+    },
+    {
+        "base": "follow",
+        "third_person": "follows",
+        "simple_past": "followed",
+        "past_participle": "followed",
+        "gerund": "following",
+        "type": "regular",
+        "meaning": "seguir"
+    },
+    {
+        "base": "forbid",
+        "third_person": "forbids",
+        "simple_past": "forbade",
+        "past_participle": "forbidden",
+        "gerund": "forbidding",
+        "type": "irregular",
+        "meaning": "prohibir/privar"
+    },
+    {
+        "base": "forecast",
+        "third_person": "forecasts",
+        "simple_past": "forecast",
+        "past_participle": "forecast",
+        "gerund": "forecasting",
+        "type": "irregular",
+        "meaning": "pronosticar"
+    },
+    {
+        "base": "forget",
+        "third_person": "forgets",
+        "simple_past": "forgot",
+        "past_participle": "forgotten",
+        "gerund": "forgetting",
+        "type": "irregular",
+        "meaning": "olvidar"
+    },
+    {
+        "base": "forgive",
+        "third_person": "forgives",
+        "simple_past": "forgave",
+        "past_participle": "forgiven",
+        "gerund": "forgiving",
+        "type": "irregular",
+        "meaning": "perdonar"
+    },
+    {
+        "base": "forsake",
+        "third_person": "forsakes",
+        "simple_past": "forsook",
+        "past_participle": "forsaken",
+        "gerund": "forsaking",
+        "type": "irregular",
+        "meaning": "abandonar/dejar"
+    },
+    {
+        "base": "freeze",
+        "third_person": "freezes",
+        "simple_past": "froze",
+        "past_participle": "frozen",
+        "gerund": "freezing",
+        "type": "irregular",
+        "meaning": "congelar/helar"
+    },
+    {
+        "base": "fry",
+        "third_person": "fries",
+        "simple_past": "fried",
+        "past_participle": "fried",
+        "gerund": "frying",
+        "type": "regular",
+        "meaning": "freír(se)"
+    },
+    {
+        "base": "get",
+        "third_person": "gets",
+        "simple_past": "got",
+        "past_participle": "gotten",
+        "gerund": "getting",
+        "type": "irregular",
+        "meaning": "conseguir/obtener"
+    },
+    {
+        "base": "give",
+        "third_person": "gives",
+        "simple_past": "gave",
+        "past_participle": "given",
+        "gerund": "giving",
+        "type": "irregular",
+        "meaning": "dar/regalar"
+    },
+    {
+        "base": "go",
+        "third_person": "goes",
+        "simple_past": "went",
+        "past_participle": "gone",
+        "gerund": "going",
+        "type": "irregular",
+        "meaning": "ir"
+    },
+    {
+        "base": "grade",
+        "third_person": "grades",
+        "simple_past": "graded",
+        "past_participle": "graded",
+        "gerund": "grading",
+        "type": "regular",
+        "meaning": "graduar/calificar/clasificar"
+    },
+    {
+        "base": "grate",
+        "third_person": "grates",
+        "simple_past": "grated",
+        "past_participle": "grated",
+        "gerund": "grating",
+        "type": "regular",
+        "meaning": "rallar/raspar"
+    },
+    {
+        "base": "grill",
+        "third_person": "grills",
+        "simple_past": "grilled",
+        "past_participle": "grilled",
+        "gerund": "grilling",
+        "type": "regular",
+        "meaning": "asar (en parrilla)"
+    },
+    {
+        "base": "grind",
+        "third_person": "grinds",
+        "simple_past": "ground",
+        "past_participle": "ground",
+        "gerund": "grinding",
+        "type": "irregular",
+        "meaning": "moler/triturar"
+    },
+    {
+        "base": "grow",
+        "third_person": "grows",
+        "simple_past": "grew",
+        "past_participle": "grown",
+        "gerund": "growing",
+        "type": "irregular",
+        "meaning": "crecer/brotar"
+    },
+    {
+        "base": "hand in",
+        "third_person": "hands in",
+        "simple_past": "handed in",
+        "past_participle": "handed in",
+        "gerund": "handing in",
+        "type": "irregular",
+        "meaning": "entregar/presentar"
+    },
+    {
+        "base": "hand out",
+        "third_person": "hands out",
+        "simple_past": "handed out",
+        "past_participle": "handed out",
+        "gerund": "handing out",
+        "type": "irregular",
+        "meaning": "dar/distribuir"
+    },
+    {
+        "base": "hang",
+        "third_person": "hangs",
+        "simple_past": "hung",
+        "past_participle": "hung",
+        "gerund": "hanging",
+        "type": "irregular",
+        "meaning": "colgar/suspender"
+    },
+    {
+        "base": "happen",
+        "third_person": "happens",
+        "simple_past": "happened",
+        "past_participle": "happened",
+        "gerund": "happening",
+        "type": "regular",
+        "meaning": "suceder/ocurrir/pasar"
+    },
+    {
+        "base": "hate",
+        "third_person": "hates",
+        "simple_past": "hated",
+        "past_participle": "hated",
+        "gerund": "hating",
+        "type": "regular",
+        "meaning": "odiar/aborrecer/detestar"
+    },
+    {
+        "base": "have",
+        "third_person": "has",
+        "simple_past": "had",
+        "past_participle": "had",
+        "gerund": "having",
+        "type": "irregular",
+        "meaning": "haber/tener"
+    },
+    {
+        "base": "hear",
+        "third_person": "hears",
+        "simple_past": "heard",
+        "past_participle": "heard",
+        "gerund": "hearing",
+        "type": "irregular",
+        "meaning": "oir"
+    },
+    {
+        "base": "help",
+        "third_person": "helps",
+        "simple_past": "helped",
+        "past_participle": "helped",
+        "gerund": "helping",
+        "type": "regular",
+        "meaning": "ayudar/socorrer"
+    },
+    {
+        "base": "hide",
+        "third_person": "hides",
+        "simple_past": "hid",
+        "past_participle": "hidden",
+        "gerund": "hiding",
+        "type": "irregular",
+        "meaning": "ocultar/esconder"
+    },
+    {
+        "base": "hit",
+        "third_person": "hits",
+        "simple_past": "hit",
+        "past_participle": "hit",
+        "gerund": "hitting",
+        "type": "irregular",
+        "meaning": "golpear/pegar"
+    },
+    {
+        "base": "hold",
+        "third_person": "holds",
+        "simple_past": "held",
+        "past_participle": "held",
+        "gerund": "holding",
+        "type": "irregular",
+        "meaning": "sostener/retener"
+    },
+    {
+        "base": "hurry",
+        "third_person": "hurries",
+        "simple_past": "hurried",
+        "past_participle": "hurried",
+        "gerund": "hurrying",
+        "type": "regular",
+        "meaning": "apresurar"
+    },
+    {
+        "base": "hurt",
+        "third_person": "hurts",
+        "simple_past": "hurt",
+        "past_participle": "hurt",
+        "gerund": "hurting",
+        "type": "irregular",
+        "meaning": "herir/lastimar"
+    },
+    {
+        "base": "identify",
+        "third_person": "identifies",
+        "simple_past": "identified",
+        "past_participle": "identified",
+        "gerund": "identifying",
+        "type": "regular",
+        "meaning": "identificar"
+    },
+    {
+        "base": "imagine",
+        "third_person": "imagines",
+        "simple_past": "imagined",
+        "past_participle": "imagined",
+        "gerund": "imagining",
+        "type": "regular",
+        "meaning": "imaginar"
+    },
+    {
+        "base": "imitate",
+        "third_person": "imitates",
+        "simple_past": "imitated",
+        "past_participle": "imitated",
+        "gerund": "imitating",
+        "type": "regular",
+        "meaning": "imitar"
+    },
+    {
+        "base": "include",
+        "third_person": "includes",
+        "simple_past": "included",
+        "past_participle": "included",
+        "gerund": "including",
+        "type": "regular",
+        "meaning": "incluir"
+    },
+    {
+        "base": "inspect",
+        "third_person": "inspects",
+        "simple_past": "inspected",
+        "past_participle": "inspected",
+        "gerund": "inspecting",
+        "type": "regular",
+        "meaning": "inspeccionar"
+    },
+    {
+        "base": "invite",
+        "third_person": "invites",
+        "simple_past": "invited",
+        "past_participle": "invited",
+        "gerund": "inviting",
+        "type": "regular",
+        "meaning": "invitar"
+    },
+    {
+        "base": "jog",
+        "third_person": "jogs",
+        "simple_past": "jogged",
+        "past_participle": "jogged",
+        "gerund": "jogging",
+        "type": "regular",
+        "meaning": "trotar"
+    },
+    {
+        "base": "jump",
+        "third_person": "jumps",
+        "simple_past": "jumped",
+        "past_participle": "jumped",
+        "gerund": "jumping",
+        "type": "regular",
+        "meaning": "saltar/brincar"
+    },
+    {
+        "base": "keep",
+        "third_person": "keeps",
+        "simple_past": "kept",
+        "past_participle": "kept",
+        "gerund": "keeping",
+        "type": "irregular",
+        "meaning": "guardar/mantener"
+    },
+    {
+        "base": "kick",
+        "third_person": "kicks",
+        "simple_past": "kicked",
+        "past_participle": "kicked",
+        "gerund": "kicking",
+        "type": "regular",
+        "meaning": "patear/dar punta pies"
+    },
+    {
+        "base": "kill",
+        "third_person": "kills",
+        "simple_past": "killed",
+        "past_participle": "killed",
+        "gerund": "killing",
+        "type": "regular",
+        "meaning": "matar/acabar con"
+    },
+    {
+        "base": "kiss",
+        "third_person": "kisses",
+        "simple_past": "kissed",
+        "past_participle": "kissed",
+        "gerund": "kissing",
+        "type": "regular",
+        "meaning": "besar"
+    },
+    {
+        "base": "know",
+        "third_person": "knows",
+        "simple_past": "knew",
+        "past_participle": "known",
+        "gerund": "knowing",
+        "type": "irregular",
+        "meaning": "saber/conocer"
+    },
+    {
+        "base": "land",
+        "third_person": "lands",
+        "simple_past": "landed",
+        "past_participle": "landed",
+        "gerund": "landing",
+        "type": "regular",
+        "meaning": "aterrizar/desembarcar"
+    },
+    {
+        "base": "laugh",
+        "third_person": "laughs",
+        "simple_past": "laughed",
+        "past_participle": "laughed",
+        "gerund": "laughing",
+        "type": "regular",
+        "meaning": "reír"
+    },
+    {
+        "base": "lay",
+        "third_person": "lays",
+        "simple_past": "laid",
+        "past_participle": "laid",
+        "gerund": "laying",
+        "type": "irregular",
+        "meaning": "poner/colocar/echar"
+    },
+    {
+        "base": "lead",
+        "third_person": "leads",
+        "simple_past": "led",
+        "past_participle": "led",
+        "gerund": "leading",
+        "type": "regular",
+        "meaning": "conducir/liderar"
+    },
+    {
+        "base": "learn",
+        "third_person": "learns",
+        "simple_past": "learned",
+        "past_participle": "learned",
+        "gerund": "learning",
+        "type": "regular",
+        "meaning": "aprender"
+    },
+    {
+        "base": "leave",
+        "third_person": "leaves",
+        "simple_past": "left",
+        "past_participle": "left",
+        "gerund": "leaving",
+        "type": "irregular",
+        "meaning": "salir/abandonar"
+    },
+    {
+        "base": "lend",
+        "third_person": "lends",
+        "simple_past": "lent",
+        "past_participle": "lent",
+        "gerund": "lending",
+        "type": "irregular",
+        "meaning": "prestar"
+    },
+    {
+        "base": "let",
+        "third_person": "lets",
+        "simple_past": "let",
+        "past_participle": "let",
+        "gerund": "letting",
+        "type": "irregular",
+        "meaning": "dejar/permitir"
+    },
+    {
+        "base": "lick",
+        "third_person": "licks",
+        "simple_past": "licked",
+        "past_participle": "licked",
+        "gerund": "licking",
+        "type": "regular",
+        "meaning": "lamer/adular"
+    },
+    {
+        "base": "lie",
+        "third_person": "lies",
+        "simple_past": "lay",
+        "past_participle": "lain",
+        "gerund": "lying",
+        "type": "irregular",
+        "meaning": "mentir"
+    },
+    {
+        "base": "light",
+        "third_person": "lights",
+        "simple_past": "lit",
+        "past_participle": "lit",
+        "gerund": "lighting",
+        "type": "irregular",
+        "meaning": "encender/prender"
+    },
+    {
+        "base": "like",
+        "third_person": "likes",
+        "simple_past": "liked",
+        "past_participle": "liked",
+        "gerund": "liking",
+        "type": "regular",
+        "meaning": "gustar/querer"
+    },
+    {
+        "base": "listen to",
+        "third_person": "listens to",
+        "simple_past": "listened to",
+        "past_participle": "listened to",
+        "gerund": "listening to",
+        "type": "regular",
+        "meaning": "escuchar"
+    },
+    {
+        "base": "live",
+        "third_person": "lives",
+        "simple_past": "lived",
+        "past_participle": "lived",
+        "gerund": "living",
+        "type": "regular",
+        "meaning": "vivir"
+    },
+    {
+        "base": "look",
+        "third_person": "looks",
+        "simple_past": "looked",
+        "past_participle": "looked",
+        "gerund": "looking",
+        "type": "regular",
+        "meaning": "mirar"
+    },
+    {
+        "base": "lose",
+        "third_person": "loses",
+        "simple_past": "lost",
+        "past_participle": "lost",
+        "gerund": "losing",
+        "type": "irregular",
+        "meaning": "perder"
+    },
+    {
+        "base": "love",
+        "third_person": "loves",
+        "simple_past": "loved",
+        "past_participle": "loved",
+        "gerund": "loving",
+        "type": "regular",
+        "meaning": "amar/adorar/encantar"
+    },
+    {
+        "base": "lower",
+        "third_person": "lowers",
+        "simple_past": "lowered",
+        "past_participle": "lowered",
+        "gerund": "lowering",
+        "type": "regular",
+        "meaning": "bajar/reducir/disminuir"
+    },
+    {
+        "base": "make",
+        "third_person": "makes",
+        "simple_past": "made",
+        "past_participle": "made",
+        "gerund": "making",
+        "type": "irregular",
+        "meaning": "hacer/fabricar"
+    },
+    {
+        "base": "manage",
+        "third_person": "manages",
+        "simple_past": "managed",
+        "past_participle": "managed",
+        "gerund": "managing",
+        "type": "regular",
+        "meaning": "manejar/dirigir/arreglárselas"
+    },
+    {
+        "base": "mean",
+        "third_person": "means",
+        "simple_past": "meant",
+        "past_participle": "meant",
+        "gerund": "meaning",
+        "type": "irregular",
+        "meaning": "significar/querer decir"
+    },
+    {
+        "base": "meet",
+        "third_person": "meets",
+        "simple_past": "met",
+        "past_participle": "met",
+        "gerund": "meeting",
+        "type": "irregular",
+        "meaning": "conocer/encontrar"
+    },
+    {
+        "base": "memorize",
+        "third_person": "memorizes",
+        "simple_past": "memorized",
+        "past_participle": "memorized",
+        "gerund": "memorizing",
+        "type": "regular",
+        "meaning": "memorizar"
+    },
+    {
+        "base": "mend",
+        "third_person": "mends",
+        "simple_past": "mended",
+        "past_participle": "mended",
+        "gerund": "mending",
+        "type": "regular",
+        "meaning": "remendar/reparar"
+    },
+    {
+        "base": "mind",
+        "third_person": "minds",
+        "simple_past": "minded",
+        "past_participle": "minded",
+        "gerund": "minding",
+        "type": "regular",
+        "meaning": "agregar/importar/preocuparse"
+    },
+    {
+        "base": "mislay",
+        "third_person": "mislays",
+        "simple_past": "mislaid",
+        "past_participle": "mislaid",
+        "gerund": "mislaying",
+        "type": "regular",
+        "meaning": "extraviar/perder"
+    },
+    {
+        "base": "miss",
+        "third_person": "misses",
+        "simple_past": "missed",
+        "past_participle": "missed",
+        "gerund": "missing",
+        "type": "regular",
+        "meaning": "echar de menos/perder"
+    },
+    {
+        "base": "mistake",
+        "third_person": "mistakes",
+        "simple_past": "mistook",
+        "past_participle": "mistaken",
+        "gerund": "mistaking",
+        "type": "irregular",
+        "meaning": "errar/equivocarse"
+    },
+    {
+        "base": "mix",
+        "third_person": "mixes",
+        "simple_past": "mixed",
+        "past_participle": "mixed",
+        "gerund": "mixing",
+        "type": "regular",
+        "meaning": "mezclar/barajar"
+    },
+    {
+        "base": "mop",
+        "third_person": "mops",
+        "simple_past": "mopped",
+        "past_participle": "mopped",
+        "gerund": "mopping",
+        "type": "regular",
+        "meaning": "trapear/fregar"
+    },
+    {
+        "base": "move",
+        "third_person": "moves",
+        "simple_past": "moved",
+        "past_participle": "moved",
+        "gerund": "moving",
+        "type": "regular",
+        "meaning": "mover/trastear"
+    },
+    {
+        "base": "multiply",
+        "third_person": "multiplies",
+        "simple_past": "multiplied",
+        "past_participle": "multiplied",
+        "gerund": "multiplying",
+        "type": "regular",
+        "meaning": "multiplicar"
+    },
+    {
+        "base": "name",
+        "third_person": "names",
+        "simple_past": "named",
+        "past_participle": "named",
+        "gerund": "naming",
+        "type": "regular",
+        "meaning": "nombrar/denominar"
+    },
+    {
+        "base": "need",
+        "third_person": "needs",
+        "simple_past": "needed",
+        "past_participle": "needed",
+        "gerund": "needing",
+        "type": "regular",
+        "meaning": "necesitar/requerir"
+    },
+    {
+        "base": "notice",
+        "third_person": "notices",
+        "simple_past": "noticed",
+        "past_participle": "noticed",
+        "gerund": "noticing",
+        "type": "regular",
+        "meaning": "notar/advertir"
+    },
+    {
+        "base": "occur",
+        "third_person": "occurs",
+        "simple_past": "occurred",
+        "past_participle": "occurred",
+        "gerund": "occurring",
+        "type": "regular",
+        "meaning": "ocurrir/suceder"
+    },
+    {
+        "base": "offer",
+        "third_person": "offers",
+        "simple_past": "offered",
+        "past_participle": "offered",
+        "gerund": "offering",
+        "type": "regular",
+        "meaning": "ofrecer"
+    },
+    {
+        "base": "omit",
+        "third_person": "omits",
+        "simple_past": "omitted",
+        "past_participle": "omitted",
+        "gerund": "omitting",
+        "type": "regular",
+        "meaning": "omitir"
+    },
+    {
+        "base": "open",
+        "third_person": "opens",
+        "simple_past": "opened",
+        "past_participle": "opened",
+        "gerund": "opening",
+        "type": "regular",
+        "meaning": "abrir"
+    },
+    {
+        "base": "order",
+        "third_person": "orders",
+        "simple_past": "ordered",
+        "past_participle": "ordered",
+        "gerund": "ordering",
+        "type": "regular",
+        "meaning": "ordenar/disponer"
+    },
+    {
+        "base": "overcome",
+        "third_person": "overcomes",
+        "simple_past": "overcame",
+        "past_participle": "overcome",
+        "gerund": "overcoming",
+        "type": "irregular",
+        "meaning": "vencer/superar/triunfar"
+    },
+    {
+        "base": "pack",
+        "third_person": "packs",
+        "simple_past": "packed",
+        "past_participle": "packed",
+        "gerund": "packing",
+        "type": "regular",
+        "meaning": "empacar/envasar"
+    },
+    {
+        "base": "paint",
+        "third_person": "paints",
+        "simple_past": "painted",
+        "past_participle": "painted",
+        "gerund": "painting",
+        "type": "regular",
+        "meaning": "pintar"
+    },
+    {
+        "base": "park",
+        "third_person": "parks",
+        "simple_past": "parked",
+        "past_participle": "parked",
+        "gerund": "parking",
+        "type": "regular",
+        "meaning": "parquear/estacionar"
+    },
+    {
+        "base": "pass",
+        "third_person": "passes",
+        "simple_past": "passed",
+        "past_participle": "passed",
+        "gerund": "passing",
+        "type": "regular",
+        "meaning": "pasar/aprobar/superar"
+    },
+    {
+        "base": "pay",
+        "third_person": "pays",
+        "simple_past": "paid",
+        "past_participle": "paid",
+        "gerund": "paying",
+        "type": "irregular",
+        "meaning": "pagar"
+    },
+    {
+        "base": "peel",
+        "third_person": "peels",
+        "simple_past": "peeled",
+        "past_participle": "peeled",
+        "gerund": "peeling",
+        "type": "regular",
+        "meaning": "pelar"
+    },
+    {
+        "base": "permit",
+        "third_person": "permits",
+        "simple_past": "permitted",
+        "past_participle": "permitted",
+        "gerund": "permitting",
+        "type": "regular",
+        "meaning": "permitir"
+    },
+    {
+        "base": "persuade",
+        "third_person": "persuades",
+        "simple_past": "persuaded",
+        "past_participle": "persuaded",
+        "gerund": "persuading",
+        "type": "regular",
+        "meaning": "persuadir/convencer"
+    },
+    {
+        "base": "pick up",
+        "third_person": "picks up",
+        "simple_past": "picked up",
+        "past_participle": "picked up",
+        "gerund": "picking up",
+        "type": "regular",
+        "meaning": "recoger"
+    },
+    {
+        "base": "place",
+        "third_person": "places",
+        "simple_past": "placed",
+        "past_participle": "placed",
+        "gerund": "placing",
+        "type": "regular",
+        "meaning": "poner/colocar/situar"
+    },
+    {
+        "base": "plan",
+        "third_person": "plans",
+        "simple_past": "planned",
+        "past_participle": "planned",
+        "gerund": "planning",
+        "type": "regular",
+        "meaning": "planear"
+    },
+    {
+        "base": "plant",
+        "third_person": "plants",
+        "simple_past": "planted",
+        "past_participle": "planted",
+        "gerund": "planting",
+        "type": "regular",
+        "meaning": "plantar/sembrar"
+    },
+    {
+        "base": "play",
+        "third_person": "plays",
+        "simple_past": "played",
+        "past_participle": "played",
+        "gerund": "playing",
+        "type": "regular",
+        "meaning": "jugar/tocar/reproducir"
+    },
+    {
+        "base": "polish",
+        "third_person": "polishes",
+        "simple_past": "polished",
+        "past_participle": "polished",
+        "gerund": "polishing",
+        "type": "regular",
+        "meaning": "pulir"
+    },
+    {
+        "base": "practice",
+        "third_person": "practices",
+        "simple_past": "practiced",
+        "past_participle": "practiced",
+        "gerund": "practicing",
+        "type": "regular",
+        "meaning": "practicar"
+    },
+    {
+        "base": "prefer",
+        "third_person": "prefers",
+        "simple_past": "preferred",
+        "past_participle": "preferred",
+        "gerund": "preferring",
+        "type": "regular",
+        "meaning": "preferir"
+    },
+    {
+        "base": "prepare",
+        "third_person": "prepares",
+        "simple_past": "prepared",
+        "past_participle": "prepared",
+        "gerund": "preparing",
+        "type": "regular",
+        "meaning": "preparar"
+    },
+    {
+        "base": "print",
+        "third_person": "prints",
+        "simple_past": "printed",
+        "past_participle": "printed",
+        "gerund": "printing",
+        "type": "regular",
+        "meaning": "imprimir"
+    },
+    {
+        "base": "promise",
+        "third_person": "promises",
+        "simple_past": "promised",
+        "past_participle": "promised",
+        "gerund": "promising",
+        "type": "regular",
+        "meaning": "prometer"
+    },
+    {
+        "base": "pronounce",
+        "third_person": "pronounces",
+        "simple_past": "pronounced",
+        "past_participle": "pronounced",
+        "gerund": "pronouncing",
+        "type": "regular",
+        "meaning": "pronunciar"
+    },
+    {
+        "base": "publish",
+        "third_person": "publishes",
+        "simple_past": "published",
+        "past_participle": "published",
+        "gerund": "publishing",
+        "type": "regular",
+        "meaning": "publicar"
+    },
+    {
+        "base": "pull",
+        "third_person": "pulls",
+        "simple_past": "pulled",
+        "past_participle": "pulled",
+        "gerund": "pulling",
+        "type": "regular",
+        "meaning": "halar/tirar de"
+    },
+    {
+        "base": "punish",
+        "third_person": "punishes",
+        "simple_past": "punished",
+        "past_participle": "punished",
+        "gerund": "punishing",
+        "type": "regular",
+        "meaning": "castigar"
+    },
+    {
+        "base": "push",
+        "third_person": "pushes",
+        "simple_past": "pushed",
+        "past_participle": "pushed",
+        "gerund": "pushing",
+        "type": "regular",
+        "meaning": "empujar"
+    },
+    {
+        "base": "put",
+        "third_person": "puts",
+        "simple_past": "put",
+        "past_participle": "put",
+        "gerund": "putting",
+        "type": "irregular",
+        "meaning": "poner/colocar"
+    },
+    {
+        "base": "quit",
+        "third_person": "quits",
+        "simple_past": "quit",
+        "past_participle": "quit",
+        "gerund": "quitting",
+        "type": "irregular",
+        "meaning": "dejar/abandonar"
+    },
+    {
+        "base": "rain",
+        "third_person": "rains",
+        "simple_past": "rained",
+        "past_participle": "rained",
+        "gerund": "raining",
+        "type": "regular",
+        "meaning": "llover"
+    },
+    {
+        "base": "reach",
+        "third_person": "reaches",
+        "simple_past": "reached",
+        "past_participle": "reached",
+        "gerund": "reaching",
+        "type": "regular",
+        "meaning": "llegar/alcanzar"
+    },
+    {
+        "base": "read",
+        "third_person": "reads",
+        "simple_past": "read",
+        "past_participle": "read",
+        "gerund": "reading",
+        "type": "irregular",
+        "meaning": "leer"
+    },
+    {
+        "base": "receive",
+        "third_person": "receives",
+        "simple_past": "received",
+        "past_participle": "received",
+        "gerund": "receiving",
+        "type": "regular",
+        "meaning": "recibir"
+    },
+    {
+        "base": "relax",
+        "third_person": "relaxes",
+        "simple_past": "relaxed",
+        "past_participle": "relaxed",
+        "gerund": "relaxing",
+        "type": "regular",
+        "meaning": "relajar/mitigar"
+    },
+    {
+        "base": "remain",
+        "third_person": "remains",
+        "simple_past": "remained",
+        "past_participle": "remained",
+        "gerund": "remaining",
+        "type": "regular",
+        "meaning": "permanecer/quedarse"
+    },
+    {
+        "base": "remember",
+        "third_person": "remembers",
+        "simple_past": "remembered",
+        "past_participle": "remembered",
+        "gerund": "remembering",
+        "type": "regular",
+        "meaning": "recordar/acordarse"
+    },
+    {
+        "base": "repair",
+        "third_person": "repairs",
+        "simple_past": "repaired",
+        "past_participle": "repaired",
+        "gerund": "repairing",
+        "type": "regular",
+        "meaning": "reparar/arreglar"
+    },
+    {
+        "base": "repeat",
+        "third_person": "repeats",
+        "simple_past": "repeated",
+        "past_participle": "repeated",
+        "gerund": "repeating",
+        "type": "regular",
+        "meaning": "repetir"
+    },
+    {
+        "base": "represent",
+        "third_person": "represents",
+        "simple_past": "represented",
+        "past_participle": "represented",
+        "gerund": "representing",
+        "type": "regular",
+        "meaning": "representar"
+    },
+    {
+        "base": "rest",
+        "third_person": "rests",
+        "simple_past": "rested",
+        "past_participle": "rested",
+        "gerund": "resting",
+        "type": "regular",
+        "meaning": "descansar/reposar"
+    },
+    {
+        "base": "rid",
+        "third_person": "rids",
+        "simple_past": "rid",
+        "past_participle": "rid",
+        "gerund": "ridding",
+        "type": "irregular",
+        "meaning": "librarse de/deshacerse"
+    },
+    {
+        "base": "ride",
+        "third_person": "rides",
+        "simple_past": "rode",
+        "past_participle": "ridden",
+        "gerund": "riding",
+        "type": "irregular",
+        "meaning": "cabalgar/montar"
+    },
+    {
+        "base": "ring",
+        "third_person": "rings",
+        "simple_past": "rang",
+        "past_participle": "rung",
+        "gerund": "ringing",
+        "type": "irregular",
+        "meaning": "sonar/timbrar"
+    },
+    {
+        "base": "rise",
+        "third_person": "rises",
+        "simple_past": "rose",
+        "past_participle": "risen",
+        "gerund": "rising",
+        "type": "irregular",
+        "meaning": "subir/ascender"
+    },
+    {
+        "base": "run",
+        "third_person": "runs",
+        "simple_past": "ran",
+        "past_participle": "run",
+        "gerund": "running",
+        "type": "irregular",
+        "meaning": "correr"
+    },
+    {
+        "base": "save",
+        "third_person": "saves",
+        "simple_past": "saved",
+        "past_participle": "saved",
+        "gerund": "saving",
+        "type": "regular",
+        "meaning": "guardar/ahorrar/salvar"
+    },
+    {
+        "base": "say",
+        "third_person": "says",
+        "simple_past": "said",
+        "past_participle": "said",
+        "gerund": "saying",
+        "type": "irregular",
+        "meaning": "decir"
+    },
+    {
+        "base": "scrub",
+        "third_person": "scrubs",
+        "simple_past": "scrubbed",
+        "past_participle": "scrubbed",
+        "gerund": "scrubbing",
+        "type": "regular",
+        "meaning": "fregar/restregar"
+    },
+    {
+        "base": "season",
+        "third_person": "seasons",
+        "simple_past": "seasoned",
+        "past_participle": "seasoned",
+        "gerund": "seasoning",
+        "type": "regular",
+        "meaning": "sazonar/aliñar"
+    },
+    {
+        "base": "see",
+        "third_person": "sees",
+        "simple_past": "saw",
+        "past_participle": "seen",
+        "gerund": "seeing",
+        "type": "irregular",
+        "meaning": "ver"
+    },
+    {
+        "base": "seek",
+        "third_person": "seeks",
+        "simple_past": "sought",
+        "past_participle": "sought",
+        "gerund": "seeking",
+        "type": "irregular",
+        "meaning": "buscar/solicitar"
+    },
+    {
+        "base": "seem",
+        "third_person": "seems",
+        "simple_past": "seemed",
+        "past_participle": "seemed",
+        "gerund": "seeming",
+        "type": "regular",
+        "meaning": "parecer"
+    },
+    {
+        "base": "select",
+        "third_person": "selects",
+        "simple_past": "selected",
+        "past_participle": "selected",
+        "gerund": "selecting",
+        "type": "regular",
+        "meaning": "seleccionar"
+    },
+    {
+        "base": "sell",
+        "third_person": "sells",
+        "simple_past": "sold",
+        "past_participle": "sold",
+        "gerund": "selling",
+        "type": "irregular",
+        "meaning": "vender"
+    },
+    {
+        "base": "send",
+        "third_person": "sends",
+        "simple_past": "sent",
+        "past_participle": "sent",
+        "gerund": "sending",
+        "type": "irregular",
+        "meaning": "enviar/mandar"
+    },
+    {
+        "base": "set",
+        "third_person": "sets",
+        "simple_past": "set",
+        "past_participle": "set",
+        "gerund": "setting",
+        "type": "irregular",
+        "meaning": "establecer/poner/fijar"
+    },
+    {
+        "base": "settle",
+        "third_person": "settles",
+        "simple_past": "settled",
+        "past_participle": "settled",
+        "gerund": "settling",
+        "type": "regular",
+        "meaning": "resolver"
+    },
+    {
+        "base": "sew",
+        "third_person": "sews",
+        "simple_past": "sewed",
+        "past_participle": "sewed",
+        "gerund": "sewing",
+        "type": "regular",
+        "meaning": "coser"
+    },
+    {
+        "base": "shake",
+        "third_person": "shakes",
+        "simple_past": "shook",
+        "past_participle": "shaken",
+        "gerund": "shaking",
+        "type": "irregular",
+        "meaning": "sacudir/menear"
+    },
+    {
+        "base": "share",
+        "third_person": "shares",
+        "simple_past": "shared",
+        "past_participle": "shared",
+        "gerund": "sharing",
+        "type": "regular",
+        "meaning": "compartir"
+    },
+    {
+        "base": "sharpen",
+        "third_person": "sharpens",
+        "simple_past": "sharpened",
+        "past_participle": "sharpened",
+        "gerund": "sharpening",
+        "type": "regular",
+        "meaning": "afilar/ampliar"
+    },
+    {
+        "base": "shed",
+        "third_person": "sheds",
+        "simple_past": "shed",
+        "past_participle": "shed",
+        "gerund": "shedding",
+        "type": "regular",
+        "meaning": "quitarse/despojarse"
+    },
+    {
+        "base": "shine",
+        "third_person": "shines",
+        "simple_past": "shone",
+        "past_participle": "shone",
+        "gerund": "shining",
+        "type": "irregular",
+        "meaning": "brillar/alumbrar"
+    },
+    {
+        "base": "shoot",
+        "third_person": "shoots",
+        "simple_past": "shot",
+        "past_participle": "shot",
+        "gerund": "shooting",
+        "type": "irregular",
+        "meaning": "tirar/disparar"
+    },
+    {
+        "base": "shop",
+        "third_person": "shops",
+        "simple_past": "shopped",
+        "past_participle": "shopped",
+        "gerund": "shopping",
+        "type": "regular",
+        "meaning": "comprar (de tiendas)"
+    },
+    {
+        "base": "shout",
+        "third_person": "shouts",
+        "simple_past": "shouted",
+        "past_participle": "shouted",
+        "gerund": "shouting",
+        "type": "regular",
+        "meaning": "gritar"
+    },
+    {
+        "base": "show",
+        "third_person": "shows",
+        "simple_past": "showed",
+        "past_participle": "shown",
+        "gerund": "showing",
+        "type": "irregular",
+        "meaning": "mostrar/enseñar"
+    },
+    {
+        "base": "shrink",
+        "third_person": "shrinks",
+        "simple_past": "shrank",
+        "past_participle": "shrunk",
+        "gerund": "shrinking",
+        "type": "irregular",
+        "meaning": "encoger/contraer"
+    },
+    {
+        "base": "shut",
+        "third_person": "shuts",
+        "simple_past": "shut",
+        "past_participle": "shut",
+        "gerund": "shutting",
+        "type": "irregular",
+        "meaning": "cerrar(callar)"
+    },
+    {
+        "base": "sigh",
+        "third_person": "sighs",
+        "simple_past": "sighed",
+        "past_participle": "sighed",
+        "gerund": "sighing",
+        "type": "regular",
+        "meaning": "suspirar/susurrar"
+    },
+    {
+        "base": "sign",
+        "third_person": "signs",
+        "simple_past": "signed",
+        "past_participle": "signed",
+        "gerund": "signing",
+        "type": "irregular",
+        "meaning": "firmar"
+    },
+    {
+        "base": "simmer",
+        "third_person": "simmers",
+        "simple_past": "simmered",
+        "past_participle": "simmered",
+        "gerund": "simmering",
+        "type": "regular",
+        "meaning": "cocer a fuego lento"
+    },
+    {
+        "base": "sing",
+        "third_person": "sings",
+        "simple_past": "sang",
+        "past_participle": "sung",
+        "gerund": "singing",
+        "type": "irregular",
+        "meaning": "cantar"
+    },
+    {
+        "base": "sink",
+        "third_person": "sinks",
+        "simple_past": "sank",
+        "past_participle": "sunk",
+        "gerund": "sinking",
+        "type": "irregular",
+        "meaning": "sumergir/hundir"
+    },
+    {
+        "base": "sit",
+        "third_person": "sits",
+        "simple_past": "sat",
+        "past_participle": "sat",
+        "gerund": "sitting",
+        "type": "irregular",
+        "meaning": "sentarse"
+    },
+    {
+        "base": "skate",
+        "third_person": "skates",
+        "simple_past": "skated",
+        "past_participle": "skated",
+        "gerund": "skating",
+        "type": "regular",
+        "meaning": "patinar"
+    },
+    {
+        "base": "ski",
+        "third_person": "skis",
+        "simple_past": "skied",
+        "past_participle": "skied",
+        "gerund": "skiing",
+        "type": "regular",
+        "meaning": "esquiar"
+    },
+    {
+        "base": "sleep",
+        "third_person": "sleeps",
+        "simple_past": "slept",
+        "past_participle": "slept",
+        "gerund": "sleeping",
+        "type": "irregular",
+        "meaning": "dormir"
+    },
+    {
+        "base": "slice",
+        "third_person": "slices",
+        "simple_past": "sliced",
+        "past_participle": "sliced",
+        "gerund": "slicing",
+        "type": "regular",
+        "meaning": "rebanar"
+    },
+    {
+        "base": "slide",
+        "third_person": "slides",
+        "simple_past": "slid",
+        "past_participle": "slid",
+        "gerund": "sliding",
+        "type": "irregular",
+        "meaning": "resbalar(se)"
+    },
+    {
+        "base": "smell",
+        "third_person": "smells",
+        "simple_past": "smelled",
+        "past_participle": "smelled",
+        "gerund": "smelling",
+        "type": "regular",
+        "meaning": "oler/husmear"
+    },
+    {
+        "base": "smile",
+        "third_person": "smiles",
+        "simple_past": "smiled",
+        "past_participle": "smiled",
+        "gerund": "smiling",
+        "type": "regular",
+        "meaning": "sonreir"
+    },
+    {
+        "base": "smoke",
+        "third_person": "smokes",
+        "simple_past": "smoked",
+        "past_participle": "smoked",
+        "gerund": "smoking",
+        "type": "regular",
+        "meaning": "fumar"
+    },
+    {
+        "base": "sneeze",
+        "third_person": "sneezes",
+        "simple_past": "sneezed",
+        "past_participle": "sneezed",
+        "gerund": "sneezing",
+        "type": "regular",
+        "meaning": "estornudar"
+    },
+    {
+        "base": "solve",
+        "third_person": "solves",
+        "simple_past": "solved",
+        "past_participle": "solved",
+        "gerund": "solving",
+        "type": "regular",
+        "meaning": "resolver"
+    },
+    {
+        "base": "swear",
+        "third_person": "swears",
+        "simple_past": "swore",
+        "past_participle": "sworn",
+        "gerund": "swearing",
+        "type": "irregular",
+        "meaning": "jurar"
+    },
+    {
+        "base": "sweep",
+        "third_person": "sweeps",
+        "simple_past": "swept",
+        "past_participle": "swept",
+        "gerund": "sweeping",
+        "type": "irregular",
+        "meaning": "barrer"
+    },
+    {
+        "base": "swim",
+        "third_person": "swims",
+        "simple_past": "swam",
+        "past_participle": "swum",
+        "gerund": "swimming",
+        "type": "irregular",
+        "meaning": "nadar"
+    },
+    {
+        "base": "swing",
+        "third_person": "swings",
+        "simple_past": "swung",
+        "past_participle": "swung",
+        "gerund": "swinging",
+        "type": "irregular",
+        "meaning": "balancearse/girar/columpiarse"
+    },
+    {
+        "base": "take",
+        "third_person": "takes",
+        "simple_past": "took",
+        "past_participle": "taken",
+        "gerund": "taking",
+        "type": "irregular",
+        "meaning": "tomar/agarrar/coger"
+    },
+    {
+        "base": "talk",
+        "third_person": "talks",
+        "simple_past": "talked",
+        "past_participle": "talked",
+        "gerund": "talking",
+        "type": "regular",
+        "meaning": "hablar/conversar"
+    },
+    {
+        "base": "taste",
+        "third_person": "tastes",
+        "simple_past": "tasted",
+        "past_participle": "tasted",
+        "gerund": "tasting",
+        "type": "regular",
+        "meaning": "saborear/catar/probar"
+    },
+    {
+        "base": "teach",
+        "third_person": "teaches",
+        "simple_past": "taught",
+        "past_participle": "taught",
+        "gerund": "teaching",
+        "type": "irregular",
+        "meaning": "enseñar"
+    },
+    {
+        "base": "tear",
+        "third_person": "tears",
+        "simple_past": "tore",
+        "past_participle": "torn",
+        "gerund": "tearing",
+        "type": "irregular",
+        "meaning": "rasgar/desgarrar/arrancar"
+    },
+    {
+        "base": "tell",
+        "third_person": "tells",
+        "simple_past": "told",
+        "past_participle": "told",
+        "gerund": "telling",
+        "type": "irregular",
+        "meaning": "decir/contar"
+    },
+    {
+        "base": "think",
+        "third_person": "thinks",
+        "simple_past": "thought",
+        "past_participle": "thought",
+        "gerund": "thinking",
+        "type": "irregular",
+        "meaning": "pensar/creer"
+    },
+    {
+        "base": "throw",
+        "third_person": "throws",
+        "simple_past": "threw",
+        "past_participle": "thrown",
+        "gerund": "throwing",
+        "type": "irregular",
+        "meaning": "lanzar/arrojar"
+    },
+    {
+        "base": "thrust",
+        "third_person": "thrust",
+        "simple_past": "thrust",
+        "past_participle": "thrust",
+        "gerund": "thrusting",
+        "type": "irregular",
+        "meaning": "clavar/empujar"
+    },
+    {
+        "base": "touch",
+        "third_person": "touches",
+        "simple_past": "touched",
+        "past_participle": "touched",
+        "gerund": "touching",
+        "type": "regular",
+        "meaning": "tocar/rozar"
+    },
+    {
+        "base": "translate",
+        "third_person": "translates",
+        "simple_past": "translated",
+        "past_participle": "translated",
+        "gerund": "translating",
+        "type": "regular",
+        "meaning": "traducir"
+    },
+    {
+        "base": "travel",
+        "third_person": "travels",
+        "simple_past": "traveled",
+        "past_participle": "traveled",
+        "gerund": "traveling",
+        "type": "regular",
+        "meaning": "viajar/andar/recorrer"
+    },
+    {
+        "base": "trust",
+        "third_person": "trusts",
+        "simple_past": "trusted",
+        "past_participle": "trusted",
+        "gerund": "trusting",
+        "type": "regular",
+        "meaning": "confiar/creer"
+    },
+    {
+        "base": "try",
+        "third_person": "tries",
+        "simple_past": "tried",
+        "past_participle": "tried",
+        "gerund": "trying",
+        "type": "regular",
+        "meaning": "probar/intentar/ensayar/tratar"
+    },
+    {
+        "base": "turn",
+        "third_person": "turns",
+        "simple_past": "turned",
+        "past_participle": "turned",
+        "gerund": "turning",
+        "type": "regular",
+        "meaning": "girar/dar vueltas/dar la vuelta"
+    },
+    {
+        "base": "type",
+        "third_person": "types",
+        "simple_past": "typed",
+        "past_participle": "typed",
+        "gerund": "typing",
+        "type": "regular",
+        "meaning": "mecanografiar/digitar"
+    },
+    {
+        "base": "underline",
+        "third_person": "underlines",
+        "simple_past": "underlined",
+        "past_participle": "underlined",
+        "gerund": "underlining",
+        "type": "regular",
+        "meaning": "subrayar"
+    },
+    {
+        "base": "understand",
+        "third_person": "understands",
+        "simple_past": "understood",
+        "past_participle": "understood",
+        "gerund": "understanding",
+        "type": "irregular",
+        "meaning": "entender/comprender"
+    },
+    {
+        "base": "undertake",
+        "third_person": "undertakes",
+        "simple_past": "undertook",
+        "past_participle": "undertaken",
+        "gerund": "undertaking",
+        "type": "irregular",
+        "meaning": "encargarse/emprender"
+    },
+    {
+        "base": "upset",
+        "third_person": "upsets",
+        "simple_past": "upset",
+        "past_participle": "upset",
+        "gerund": "upsetting",
+        "type": "irregular",
+        "meaning": "alterar/perturbar"
+    },
+    {
+        "base": "use",
+        "third_person": "uses",
+        "simple_past": "used",
+        "past_participle": "used",
+        "gerund": "using",
+        "type": "regular",
+        "meaning": "usar"
+    },
+    {
+        "base": "vacuum",
+        "third_person": "vacuums",
+        "simple_past": "vacuumed",
+        "past_participle": "vacuumed",
+        "gerund": "vacuuming",
+        "type": "regular",
+        "meaning": "aspirar"
+    },
+    {
+        "base": "vanish",
+        "third_person": "vanishes",
+        "simple_past": "vanished",
+        "past_participle": "vanished",
+        "gerund": "vanishing",
+        "type": "regular",
+        "meaning": "desvanecer(se)/desaparecer"
+    },
+    {
+        "base": "visit",
+        "third_person": "visits",
+        "simple_past": "visited",
+        "past_participle": "visited",
+        "gerund": "visiting",
+        "type": "regular",
+        "meaning": "visitar/hacer visitas"
+    },
+    {
+        "base": "wait",
+        "third_person": "waits",
+        "simple_past": "waited",
+        "past_participle": "waited",
+        "gerund": "waiting",
+        "type": "regular",
+        "meaning": "esperar"
+    },
+    {
+        "base": "wake",
+        "third_person": "wakes",
+        "simple_past": "woke",
+        "past_participle": "woken",
+        "gerund": "waking",
+        "type": "irregular",
+        "meaning": "despertar(se)"
+    },
+    {
+        "base": "walk",
+        "third_person": "walks",
+        "simple_past": "walked",
+        "past_participle": "walked",
+        "gerund": "walking",
+        "type": "regular",
+        "meaning": "caminar/andar/pasear/andar"
+    },
+    {
+        "base": "want",
+        "third_person": "wants",
+        "simple_past": "wanted",
+        "past_participle": "wanted",
+        "gerund": "wanting",
+        "type": "regular",
+        "meaning": "querer/desear/necesitar"
+    },
+    {
+        "base": "warm",
+        "third_person": "warms",
+        "simple_past": "warmed",
+        "past_participle": "warmed",
+        "gerund": "warming",
+        "type": "regular",
+        "meaning": "calentar(se)/recalentar"
+    },
+    {
+        "base": "wash",
+        "third_person": "washes",
+        "simple_past": "washed",
+        "past_participle": "washed",
+        "gerund": "washing",
+        "type": "regular",
+        "meaning": "lavar/fregar/mojar"
+    },
+    {
+        "base": "watch",
+        "third_person": "watches",
+        "simple_past": "watched",
+        "past_participle": "watched",
+        "gerund": "watching",
+        "type": "regular",
+        "meaning": "mirar/observar"
+    }
+]
+    
+        
+    
+    
+    
+        
+    
+    
+
+
+    
+        
+
+
+
+    
+        
