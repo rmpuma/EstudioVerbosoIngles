@@ -26,7 +26,9 @@ function startStudy() {
 function nextVerb() {
     currentVerbIndex = Math.floor(Math.random() * verbs.length);
     const verb = verbs[currentVerbIndex];
-    document.getElementById('question').innerText = `¿Cómo se conjuga el verbo "${verb.base}"?`;
+    
+    // Actualizar la pregunta para incluir si el verbo es regular o irregular
+    document.getElementById('question').innerText = `¿Cómo se conjuga el verbo "${verb.base}"? (${verb.type.toUpperCase()})`;
 
     const answersContainer = document.getElementById('answers');
     answersContainer.innerHTML = ''; // Limpiar respuestas anteriores
@@ -47,6 +49,7 @@ function nextVerb() {
 
     document.getElementById('result').innerText = '';
 }
+
 
 function checkAnswer() {
     let resultText = 'Respuestas incorrectas para: ';
