@@ -9,14 +9,12 @@
 <body>
     <div class="container">
         <h1>Estudio de Verbos en Inglés</h1>
-        
-        <!-- Selección de tiempos verbales -->
         <div id="time-selection">
             <h3>Selecciona los tiempos verbales:</h3>
-            <label><input type="checkbox" value="third_person"> Tercera Persona </label><br>
             <label><input type="checkbox" value="simple_past"> Pasado Simple</label><br>
-            <label><input type="checkbox" value="past_participle"> Pasado Participio</label><br>
+            <label><input type="checkbox" value="past_participle"> Participio Pasado</label><br>
             <label><input type="checkbox" value="gerund"> Gerundio</label><br>
+            <label><input type="checkbox" value="third_person"> Tercera Persona</label><br>
             <button onclick="startStudy()">Iniciar Estudio</button>
         </div>
 
@@ -25,8 +23,10 @@
             <div id="answers"></div>
             <button onclick="checkAnswer()">Comprobar</button>
             <div id="result"></div>
-            <button id="next-verb-button" style="display:none;" onclick="nextVerb()">Siguiente Verbo</button>
+            <button id="next-verb-button" onclick="nextVerb()" style="display:none;">Siguiente Verbo</button>
         </div>
+    </div>
     <script src="script.js"></script>
 </body>
 </html>
+
