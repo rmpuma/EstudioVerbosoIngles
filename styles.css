@@ -101,4 +101,16 @@ button:hover {
     }
 }
 
+/* Mensaje de error en rojo */
+.error-message {
+    color: red;
+    font-weight: bold;
+}
+
+/* Mensaje de éxito en verde */
+.success-message {
+    color: green;
+    font-weight: bold;
+}
+
 
